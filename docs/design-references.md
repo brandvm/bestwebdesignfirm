@@ -1,7 +1,7 @@
-# Visual references and application
+# Directory references
 
-The screenshot-led [reference board](https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev/design/references/) documents all five requested editorial sites, BYQ Studio’s catalogue/Culture Exchange/Nothing/Reforma, and five Mobbin selections. Every screenshot has a source link and separate observation, adaptation and application notes.
+- [Top Website Design Agencies](https://topwebsitedesignagencies.com/website-design-agencies-in-the-us): Separate navigation, article context and the first useful answer. Use dark surfaces with readable contrast and restrained accent colour.
+- [Mobbin · Webflow directory](https://mobbin.com/sites/sections/634cff98-8679-4f80-92bb-afb7410089b9): Use consistent logo/name/fact hierarchy for ranking cards. Keep supporting imagery secondary to the agency information.
+- [BYQ · Nothing, blog](https://www.byq.studio/template/nothing-template): Adapt the rounded navigation and deliberate scale changes to an article-led directory.
 
-[Open this publication’s style guide](https://bestwebdesignfirm-staging.hamoun-ce6.workers.dev/design/) for the specific sources applied here, rendered Google Font specimens, colours, page layouts, component examples and review-interface design.
-
-The directory `design/` is staging-only. Original source-site assets and paid template code are not used in publication pages; attributed screenshot captures are research material.
+A centred dark opening with lime accents, a five-column company roster and rounded comparison cards.
