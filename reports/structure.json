@@ -1,32 +1,32 @@
 {
-  "environment": "production",
+  "environment": "cloudflare-staging",
   "pages": [
     {
       "page": "/404.html",
-      "cssGzipBytes": 3158,
-      "fontBytes": 67024,
-      "javascriptGzipBytes": 0,
+      "cssGzipBytes": 4998,
+      "fontBytes": 74964,
+      "javascriptGzipBytes": 15450,
       "profiles": 0
     },
     {
       "page": "/blog/index.html",
-      "cssGzipBytes": 3158,
-      "fontBytes": 67024,
-      "javascriptGzipBytes": 0,
+      "cssGzipBytes": 4998,
+      "fontBytes": 74964,
+      "javascriptGzipBytes": 15450,
       "profiles": 0
     },
     {
       "page": "/blog/top-web-design-agencies/index.html",
-      "cssGzipBytes": 3158,
-      "fontBytes": 67024,
-      "javascriptGzipBytes": 0,
+      "cssGzipBytes": 4998,
+      "fontBytes": 74964,
+      "javascriptGzipBytes": 15450,
       "profiles": 10
     },
     {
       "page": "/index.html",
-      "cssGzipBytes": 3158,
-      "fontBytes": 67024,
-      "javascriptGzipBytes": 0,
+      "cssGzipBytes": 4998,
+      "fontBytes": 74964,
+      "javascriptGzipBytes": 15450,
       "profiles": 0
     }
   ]

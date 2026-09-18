@@ -3,30 +3,30 @@
   "pages": [
     {
       "page": "/404.html",
-      "cssGzipBytes": 4069,
-      "fontBytes": 67024,
-      "javascriptBytes": 0,
+      "cssGzipBytes": 4998,
+      "fontBytes": 74964,
+      "javascriptGzipBytes": 15450,
       "profiles": 0
     },
     {
       "page": "/blog/index.html",
-      "cssGzipBytes": 4069,
-      "fontBytes": 67024,
-      "javascriptBytes": 0,
+      "cssGzipBytes": 4998,
+      "fontBytes": 74964,
+      "javascriptGzipBytes": 15450,
       "profiles": 0
     },
     {
       "page": "/blog/top-web-design-agencies/index.html",
-      "cssGzipBytes": 4069,
-      "fontBytes": 67024,
-      "javascriptBytes": 0,
+      "cssGzipBytes": 4998,
+      "fontBytes": 74964,
+      "javascriptGzipBytes": 15450,
       "profiles": 10
     },
     {
       "page": "/index.html",
-      "cssGzipBytes": 4069,
-      "fontBytes": 67024,
-      "javascriptBytes": 0,
+      "cssGzipBytes": 4998,
+      "fontBytes": 74964,
+      "javascriptGzipBytes": 15450,
       "profiles": 0
     }
   ]

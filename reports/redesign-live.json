@@ -1,0 +1,13 @@
+{
+  "site": "bestwebdesignfirm",
+  "url": "https://bestwebdesignfirm-staging.hamoun-ce6.workers.dev",
+  "commit": "393306b8b4ed43304382aff8575b0bdbd817838a",
+  "checks": [
+    "Unauthenticated pages, assets, and build metadata are protected",
+    "3 authenticated pages available with noindex",
+    "Login name is enforced server-side for comments and replies",
+    "Independent sessions read the same persisted thread",
+    "Page and branch isolation remains enforced",
+    "QA thread resolved after verification"
+  ]
+}

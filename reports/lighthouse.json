@@ -8,7 +8,7 @@
       "route": "/",
       "mode": "mobile",
       "median": {
-        "performance": 100,
+        "performance": 99,
         "accessibility": 100,
         "best-practices": 100,
         "seo": 100
@@ -22,36 +22,36 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1352.13795,
-            "cls": 0.0001328569485105021,
+            "lcp": 1502.96085,
+            "cls": 0.004883738895577944,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 100,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1351.52265,
-            "cls": 0.0001328569485105021,
+            "lcp": 1652.1249,
+            "cls": 0.004883738895577944,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 100,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1351.5082499999999,
-            "cls": 0.0001328569485105021,
+            "lcp": 1651.2936,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -76,8 +76,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 320.85080000000005,
-            "cls": 0,
+            "lcp": 361.93095000000005,
+            "cls": 0.004531178603741646,
             "tbt": 0
           },
           "failures": []
@@ -90,8 +90,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 320.89279999999997,
-            "cls": 0,
+            "lcp": 363.723,
+            "cls": 0.004531178603741646,
             "tbt": 0
           },
           "failures": []
@@ -104,8 +104,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 321.0431,
-            "cls": 0.000673624609637218,
+            "lcp": 361.1718,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -116,7 +116,7 @@
       "route": "/blog/",
       "mode": "mobile",
       "median": {
-        "performance": 100,
+        "performance": 99,
         "accessibility": 100,
         "best-practices": 100,
         "seo": 100
@@ -124,42 +124,42 @@
       "runs": [
         {
           "scores": {
-            "performance": 100,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1351.5005999999998,
-            "cls": 0.03219955763706748,
+            "lcp": 1576.35825,
+            "cls": 0.002214278630416186,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 100,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1351.4874,
-            "cls": 0.03219955763706748,
+            "lcp": 1576.2711000000002,
+            "cls": 0.002214278630416186,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 100,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1351.1417999999999,
-            "cls": 0.03219955763706748,
+            "lcp": 1576.4171999999999,
+            "cls": 0.002214278630416186,
             "tbt": 0
           },
           "failures": []
@@ -184,36 +184,36 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 321.29044999999996,
-            "cls": 0.001091188116554301,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 321.53525,
-            "cls": 0.001091188116554301,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 320.81899999999996,
+            "lcp": 361.01415000000003,
             "cls": 0,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 360.99674999999996,
+            "cls": 0,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 361.6485,
+            "cls": 0.0004709022852639874,
             "tbt": 0
           },
           "failures": []
@@ -238,7 +238,21 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1650.98535,
+            "lcp": 1801.57245,
+            "cls": 0.00002634921489946655,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 1951.0122000000001,
             "cls": 0,
             "tbt": 0
           },
@@ -252,21 +266,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1651.12335,
-            "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 99,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1650.8346,
+            "lcp": 1951.1932499999998,
             "cls": 0,
             "tbt": 0
           },
@@ -292,7 +292,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 400.96930000000003,
+            "lcp": 401.3722,
             "cls": 0,
             "tbt": 0
           },
@@ -306,8 +306,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 401.22880000000004,
-            "cls": 0.02951446298667659,
+            "lcp": 401.37415,
+            "cls": 0.003291937275632607,
             "tbt": 0
           },
           "failures": []
@@ -320,7 +320,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 401.32045,
+            "lcp": 400.92805,
             "cls": 0,
             "tbt": 0
           },
