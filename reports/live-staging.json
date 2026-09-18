@@ -1,0 +1,17 @@
+{
+  "site": "bestwebdesignfirm",
+  "url": "https://bestwebdesignfirm-staging.hamoun-ce6.workers.dev",
+  "checks": [
+    "Unauthenticated / protected",
+    "Unauthenticated /favicon.svg protected",
+    "Unauthenticated /_review/mode.js protected",
+    "Unauthenticated /build-info.json protected",
+    "Authenticated page / available and noindex",
+    "Authenticated page /blog/ available and noindex",
+    "Authenticated page /blog/top-web-design-agencies/ available and noindex",
+    "Comment persists between independent authenticated sessions",
+    "Page and branch isolation enforced",
+    "Resolve succeeds"
+  ],
+  "commit": "05b0d631a467834ba7730e8c5e99de99b0f0887f"
+}
