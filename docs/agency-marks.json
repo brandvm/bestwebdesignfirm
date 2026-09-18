@@ -1,0 +1,93 @@
+[
+  {
+    "id": "agency-brand-vision",
+    "name": "Brand Vision",
+    "url": "https://www.brandvm.com/our-work-portfolio",
+    "source": "https://cdn.prod.website-files.com/68b9f0236581de795cba8ec2/6a959f61b4c30e1af77118f3_Favicon.png",
+    "file": "agency-brand-vision.webp",
+    "width": 512,
+    "height": 512,
+    "sha256": "96a3a9580ea963730809e89fa1d874f60e96d89ba71dcd4555699a7c2dae9a13"
+  },
+  {
+    "id": "agency-bop-design",
+    "name": "Bop Design",
+    "url": "https://www.bopdesign.com/our-work/",
+    "source": "https://www.bopdesign.com/wp-content/uploads/2023/07/cropped-cropped-site-icon-298x298.jpg",
+    "file": "agency-bop-design.webp",
+    "width": 298,
+    "height": 298,
+    "sha256": "42418e3813042a1e8a12cfc38d42be7b5b7023195b86a3741fe16f19764e7c00"
+  },
+  {
+    "id": "agency-ramotion",
+    "name": "Ramotion",
+    "url": "https://www.ramotion.com/work/branding/?utm_source=chatgpt.com",
+    "source": "https://www.ramotion.com/favicon-194x194.png",
+    "file": "agency-ramotion.webp",
+    "width": 194,
+    "height": 194,
+    "sha256": "ff00bf01e979ee8bb7016411562c05878c99e04a60645f7f2f87f83b618898cf"
+  },
+  {
+    "id": "agency-threesixtyeight",
+    "name": "ThreeSixtyEight",
+    "url": "https://www.threesixtyeight.com/work",
+    "source": "https://cdn.prod.website-files.com/68acaeda4c40c7cb5cbef6ba/6977d1a2c3ffb9d44a9acada_FAVI2.png",
+    "file": "agency-threesixtyeight.webp",
+    "width": 32,
+    "height": 32,
+    "sha256": "88b140028cf24e223266d8898810457c7dcb73ff7892a80bffa24388bfd927a3"
+  },
+  {
+    "id": "agency-edesign-interactive",
+    "name": "eDesign Interactive",
+    "url": "https://edesigninteractive.com/portfolio",
+    "file": null,
+    "note": "Plain initials fallback; official asset unavailable."
+  },
+  {
+    "id": "agency-the-creative-momentum",
+    "name": "The Creative Momentum",
+    "url": "https://www.designrush.com/agency/profile/the-creative-momentum",
+    "file": null,
+    "note": "Plain initials fallback; official asset unavailable."
+  },
+  {
+    "id": "agency-wolf-whale",
+    "name": "Wolf&Whale",
+    "url": "https://www.wolfwhale.com/work/",
+    "source": "https://www.wolfwhale.com/wp-content/themes/flinked/dist/assets/image/icon/apple-touch-icon.png",
+    "file": "agency-wolf-whale.webp",
+    "width": 152,
+    "height": 152,
+    "sha256": "62bf1f4e3ea7792f8a9c037086a4f01578385021d63e7ad0ab44f6fa9c26c5ec"
+  },
+  {
+    "id": "agency-bowen",
+    "name": "BOWEN",
+    "url": "https://www.bowenmedia.com/work",
+    "file": null,
+    "note": "Plain initials fallback; official asset unavailable."
+  },
+  {
+    "id": "agency-baunfire",
+    "name": "Baunfire",
+    "url": "https://www.baunfire.com/work/",
+    "source": "https://www.baunfire.com/apple-touch-icon.png",
+    "file": "agency-baunfire.webp",
+    "width": 180,
+    "height": 180,
+    "sha256": "215bfc94d22b705bbd5c5de1854a7aacc44e99ebd33765d2631174ea466a418c"
+  },
+  {
+    "id": "agency-huemor",
+    "name": "HUEMOR",
+    "url": "https://huemor.rocks/case-studies/",
+    "source": "https://huemor.rocks/wp-content/uploads/2025/09/cropped-huemor-symbol-round-192x192.png",
+    "file": "agency-huemor.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "a6e01a3e589b7098a00a865cba53f022438fe7ca6fed46c9c7dc55588838736b"
+  }
+]

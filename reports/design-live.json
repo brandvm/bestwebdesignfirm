@@ -1,0 +1,13 @@
+{
+  "site": "bestwebdesignfirm",
+  "commit": "bd38437e439d2b56af3c1378012ce10cae6b8b53",
+  "pages": [
+    "/design/"
+  ],
+  "checks": [
+    "Unauthenticated design pages, CSS and fonts are protected",
+    "Authenticated design pages return 200 and noindex",
+    "Login preserves the style-guide return URL",
+    "Guide API accepts the correct page identifier"
+  ]
+}

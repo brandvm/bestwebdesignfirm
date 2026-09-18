@@ -3,17 +3,26 @@
   "masthead": "BEST WEB\nDESIGN FIRM",
   "name": "Best Web Design Firm",
   "eyebrow": "DESIGN PARTNERS, EXAMINED",
-  "headline": "Your next site.\nThe right team\nto build it.",
+  "headline": "Good design.Better decisions.",
   "intro": "Look beyond the homepage. Compare web design agencies on the thinking, craft, and delivery behind their work\u2014and find a team that fits your next project.",
-  "accent": "#9cbcff",
-  "bg": "#10151f",
-  "ink": "#f0f3fa",
-  "muted": "#b4c0d4",
-  "line": "#394457",
+  "accent": "#cbef88",
+  "bg": "#11131b",
+  "ink": "#f6f7fb",
+  "muted": "#b8bdce",
+  "line": "#383d4b",
   "display": "instrument-sans",
-  "body": "dm-sans",
+  "body": "inter-tight",
   "style": "digital",
   "description": "Find a web design firm for your next project. Compare agency capabilities, budgets, portfolios, and the practical details behind a successful website.",
   "domain": "bestwebdesignfirm.com",
-  "repo": "bestwebdesignfirm"
+  "repo": "bestwebdesignfirm",
+  "homeArticle": "top-web-design-agencies",
+  "brief": "Find the team for your next website. Start with the details.",
+  "direction": "The digital agency shortlist",
+  "navigation": [
+    {
+      "slug": "top-web-design-agencies",
+      "label": "Web design firms"
+    }
+  ]
 }
