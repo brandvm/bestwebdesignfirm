@@ -1,0 +1,232 @@
+{
+  "headers": [
+    "#",
+    "Agency",
+    "Est.",
+    "Locations",
+    "Min. budget",
+    "Focus",
+    "Score"
+  ],
+  "agencies": [
+    {
+      "id": "agency-brand-vision",
+      "name": "Brand Vision",
+      "heading": "1. Brand Vision",
+      "cells": [
+        "1",
+        "Brand Vision",
+        "2018",
+        "Toronto, Canada; Chicago, San Francisco & Miami, USA",
+        "$10,000+",
+        "Brand strategy, custom web design, UX/UI",
+        "9.4/10"
+      ],
+      "facts": [
+        "📍 Toronto, Canada; Chicago, San Francisco &amp; Miami, USA | Est. 2018 | Budget: <strong>$10,000+</strong>",
+        "<strong>Rating:</strong> Clutch: <strong>5.0/5</strong>; Google via DesignRush: <strong>4.9/5</strong>; DesignRush: <strong>4.8/5</strong>.",
+        "<strong>Clients:</strong> TeraWulf, First Horizon Bank, Flipp, Roncelli."
+      ]
+    },
+    {
+      "id": "agency-bop-design",
+      "name": "Bop Design",
+      "heading": "2. Bop Design",
+      "cells": [
+        "2",
+        "Bop Design",
+        "2008",
+        "San Diego, USA",
+        "$25,000+",
+        "B2B web design, WordPress, content marketing",
+        "9.3/10"
+      ],
+      "facts": [
+        "📍 San Diego, USA | Est. 2008 | Budget: <strong>$25,000+</strong>",
+        "<strong>Rating:</strong> Clutch: <strong>5.0/5</strong>; Google via DesignRush: <strong>4.4/5</strong>; DesignRush: <strong>4.8/5</strong>.",
+        "<strong>Clients:</strong> Kaseware, SmartChoice, StaticWorx, Brixton Capital."
+      ]
+    },
+    {
+      "id": "agency-baunfire",
+      "name": "Baunfire",
+      "heading": "3. Baunfire",
+      "cells": [
+        "3",
+        "Baunfire",
+        "2001",
+        "San Jose, USA",
+        "$75,000+",
+        "Technology websites, corporate rebuilds, UX/UI",
+        "9.1/10"
+      ],
+      "facts": [
+        "📍 San Jose, USA | Est. 2001 | Budget: <strong>$75,000+</strong>",
+        "<strong>Rating:</strong> Clutch: <strong>4.9/5</strong>; Google via DesignRush: <strong>4.8/5</strong>.",
+        "<strong>Clients:</strong> Omron Robotics, Karat, Cellares, Lumana."
+      ]
+    },
+    {
+      "id": "agency-huemor",
+      "name": "HUEMOR",
+      "heading": "4. HUEMOR",
+      "cells": [
+        "4",
+        "HUEMOR",
+        "2011",
+        "Pittsburgh, USA",
+        "$25,000+",
+        "B2B website redesigns, development, ongoing support",
+        "9.0/10"
+      ],
+      "facts": [
+        "📍 Pittsburgh, USA | Est. 2011 | Budget: <strong>$25,000+</strong>",
+        "<strong>Rating:</strong> Clutch: <strong>4.8/5</strong>; Google via DesignRush: <strong>5.0/5</strong>; DesignRush: <strong>4.9/5</strong>.",
+        "<strong>Clients:</strong> Boston Dynamics, HITT Contracting, Bizrate Insights, LaMotte."
+      ]
+    },
+    {
+      "id": "agency-ramotion",
+      "name": "Ramotion",
+      "heading": "5. Ramotion",
+      "cells": [
+        "5",
+        "Ramotion",
+        "2009",
+        "San Francisco, USA",
+        "$50,000+",
+        "Technology branding, websites, interface design",
+        "8.9/10"
+      ],
+      "facts": [
+        "📍 San Francisco, USA | Est. 2009 | Budget: <strong>$50,000+</strong>",
+        "<strong>Rating:</strong> Clutch: <strong>4.9/5</strong>; Google via DesignRush: <strong>5.0/5</strong>; DesignRush: <strong>4.9/5</strong>.",
+        "<strong>Clients:</strong> Descript, Mozilla, Netflix, Stripe."
+      ]
+    },
+    {
+      "id": "agency-edesign-interactive",
+      "name": "eDesign Interactive",
+      "heading": "6. eDesign Interactive",
+      "cells": [
+        "6",
+        "eDesign Interactive",
+        "2004",
+        "Morristown, USA; Sofia, Bulgaria",
+        "$50,000+",
+        "Interactive websites, brand storytelling, custom development",
+        "8.9/10"
+      ],
+      "facts": [
+        "📍 Morristown, USA; Sofia, Bulgaria | Est. 2004 | Budget: <strong>$50,000+</strong>",
+        "<strong>Rating:</strong> Clutch: <strong>4.9/5</strong>; DesignRush: <strong>4.8/5</strong>.",
+        "<strong>Clients:</strong> Turner Construction, Welch’s Fruit Snacks, TDF, Wimpy Kid."
+      ]
+    },
+    {
+      "id": "agency-threesixtyeight",
+      "name": "ThreeSixtyEight",
+      "heading": "7. ThreeSixtyEight",
+      "cells": [
+        "7",
+        "ThreeSixtyEight",
+        "2016",
+        "Baton Rouge, USA",
+        "$25,000+",
+        "Institutional websites, branding, campaigns",
+        "8.8/10"
+      ],
+      "facts": [
+        "📍 Baton Rouge, USA | Est. 2016 | Budget: <strong>$25,000+</strong>",
+        "<strong>Rating:</strong> Clutch: <strong>4.9/5</strong>; DesignRush: <strong>4.9/5</strong>.",
+        "<strong>Clients:</strong> Strada Education Foundation, Gerdau, Alfa Insurance, Coker Group."
+      ]
+    },
+    {
+      "id": "agency-wolf-whale",
+      "name": "Wolf&Whale",
+      "heading": "8. Wolf&Whale",
+      "cells": [
+        "8",
+        "Wolf&Whale",
+        "2014",
+        "Brooklyn, USA",
+        "$25,000+",
+        "Senior-led branding, UX/UI, website development",
+        "8.6/10"
+      ],
+      "facts": [
+        "📍 Brooklyn, USA | Est. 2014 | Budget: <strong>$25,000+</strong>",
+        "<strong>Rating:</strong> Clutch: <strong>5.0/5</strong>; DesignRush: <strong>4.5/5</strong>.",
+        "<strong>Clients:</strong> Reckoner Capital Management, GoDaddy, Guardian Direct, New York Cares."
+      ]
+    },
+    {
+      "id": "agency-the-creative-momentum",
+      "name": "The Creative Momentum",
+      "heading": "9. The Creative Momentum",
+      "cells": [
+        "9",
+        "The Creative Momentum",
+        "2012",
+        "Alpharetta, USA",
+        "$25,000+",
+        "Custom web design, development, inbound marketing",
+        "8.5/10"
+      ],
+      "facts": [
+        "📍 Alpharetta, USA | Est. 2012 | Budget: <strong>$25,000+</strong>",
+        "<strong>Rating:</strong> Clutch: <strong>5.0/5</strong>; Google via DesignRush: <strong>5.0/5</strong>; DesignRush: <strong>4.3/5</strong>.",
+        "<strong>Clients:</strong> MobileLabs, L’Arche, Emory Healthcare, Arby’s Franchising."
+      ]
+    },
+    {
+      "id": "agency-bowen",
+      "name": "BOWEN",
+      "heading": "10. BOWEN",
+      "cells": [
+        "10",
+        "BOWEN",
+        "2004",
+        "Mineola and New York City, USA",
+        "$25,000+",
+        "Website systems, branding, digital marketing",
+        "8.5/10"
+      ],
+      "facts": [
+        "📍 Mineola and New York City, USA | Est. 2004 | Budget: <strong>$25,000+</strong>",
+        "<strong>Rating:</strong> Clutch: <strong>5.0/5</strong>; Google via DesignRush: <strong>5.0/5</strong>.",
+        "<strong>Clients:</strong> Interaudi Bank, Meltwater, Available Light, Investor Junkie."
+      ]
+    }
+  ],
+  "quickMatch": {
+    "headers": [
+      "<strong>Buyer situation</strong>",
+      "<strong>Best-fit agency</strong>",
+      "<strong>Why it fits</strong>"
+    ],
+    "rows": [
+      [
+        "<strong>Best overall pick</strong>",
+        "<strong>Brand Vision</strong>",
+        "Highest combined editorial score for value, client satisfaction, and relevant portfolio breadth."
+      ],
+      [
+        "<strong>Complex technology rebuild with multiple stakeholders and integrations</strong>",
+        "<strong>Baunfire</strong>",
+        "Its Omron Robotics engagement demonstrates the technical scope and coordination relevant to a substantial corporate rebuild."
+      ],
+      [
+        "<strong>Brand and website refresh that brings positioning, identity, and website delivery together</strong>",
+        "<strong>Brand Vision</strong>",
+        "Its TeraWulf work combines brand strategy, messaging, visual identity, and a Webflow website."
+      ],
+      [
+        "<strong>B2B lead generation supported by a new website and ongoing content marketing</strong>",
+        "<strong>Bop Design</strong>",
+        "Its Kaseware engagement combines website redevelopment with continuing marketing support."
+      ]
+    ]
+  }
+}
